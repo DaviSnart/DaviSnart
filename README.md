@@ -1,6 +1,6 @@
 ### Fala Galera! :sunglasses: 
 
-E aí! Eu me chamo Davi Soares, sou um progamador Front-End e trabalho como Free-Lancer com conhecimentos das seguintes áreas da progamação:
+E aí! Eu me chamo Davi Soares, sou um DesenvolvedorFront-End e trabalho como Free-Lancer. Tenho experiências, diversos projetos e conhecimentos das seguintes áreas da progamação:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
@@ -15,6 +15,7 @@ Se quiser entrar em contato comigo, pode clicar aqui em baixo no que for de sua 
  clique aqui https://www.instagram.com/davi_snart/
  - <img href="https://www.linkedin.com/in/davi-soares-ds/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  clique aqui https://www.linkedin.com/in/davi-soares-ds/
+Se preferir, está aqui o meu email pessoal para contato: davi.soaresdp@outlook.com
 <br>
 <br>
 
